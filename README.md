@@ -21,9 +21,9 @@ SQL is the backbone of data-driven decisions 📊. Whether you're querying milli
 
 | Difficulty | Problems Solved | Examples 💡 |
 |------------|-----------------|-------------|
-| 🟢 Easy    | 15             | `SELECT`, `WHERE`, `GROUP BY` |
-| 🟠 Medium  | 25             | `JOINS`, `HAVING`, `ORDER BY` |
-| 🔴 Hard    | 10             | `WINDOW FUNCTIONS`, `CTEs`, `SUBQUERIES` |
+| 🟢 Easy    | 32             | `SELECT`, `WHERE`, `GROUP BY` |
+| 🟠 Medium  | 17             | `JOINS`, `HAVING`, `ORDER BY` |
+| 🔴 Hard    | 1              | `WINDOW FUNCTIONS`, `CTEs`, `SUBQUERIES` |
 
 ---
 
@@ -75,8 +75,8 @@ Feel free to fork this repo, submit a pull request, or drop a comment. Let's gro
 
 ## 🎉 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐙 [GitHub](https://github.com/your-profile)
-- 📫 Email: your-email@example.com
+- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/harsh-namdev-483060294/))
+- 🐙 [GitHub](https://github.com/harshnamd)
+- 📫 Email: hnamdev2005@gmail.com
 
 Happy Querying! 🎉
